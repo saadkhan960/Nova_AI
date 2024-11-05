@@ -1,16 +1,20 @@
-# nova_ai
+# Nova AI
 
-A new Flutter project.
+An AI-powered chat application developed in Flutter, integrating Gemini AI to deliver real-time, interactive conversations. Nova AI offers a modern, user-friendly interface with features like persistent chat history, smart suggestions, and dynamic message handling for an enhanced chat experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository contains the code for Nova AI. Follow the steps below to set up and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Gemini API Key](https://gemini.ai/) for AI-powered responses
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/saadkhan960/nova_ai.git
+   cd nova_ai
+
