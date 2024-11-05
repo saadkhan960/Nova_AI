@@ -1,6 +1,7 @@
 # Nova AI
 
-An AI-powered chat application developed in Flutter, integrating Gemini AI to deliver real-time, interactive conversations. Nova AI offers a modern, user-friendly interface with features like persistent chat history, smart suggestions, and dynamic message handling for an enhanced chat experience.
+An AI-powered chat application developed in Flutter, integrating Gemini AI to deliver real-time, interactive conversations. Nova AI offers a modern, user-friendly interface with features like persistent chat history, smart suggestions, dynamic message handling, and even **image analysis capabilities** for an enhanced and versatile chat experience.
+
 
 ## Getting Started
 
